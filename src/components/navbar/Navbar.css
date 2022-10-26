@@ -1,0 +1,15 @@
+nav {
+    background-color: royalblue;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 0 50px;
+  }
+ .link {
+    font-size: 25px;
+    margin-right: 12px;
+    color: white;
+    text-decoration: none;
+  }

@@ -1,0 +1,16 @@
+.task{
+    display: flex;
+    padding: 5px 20px;
+    align-items: center;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    justify-content: space-between;
+}
+.task >button{
+    padding: 5px 8px;
+    color: white;
+    background-color: rgb(0, 128, 255);
+    cursor: pointer;
+    border: none;
+}
